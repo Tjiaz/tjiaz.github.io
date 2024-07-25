@@ -5,15 +5,15 @@
 ### Highlighted projects in data science, machine learning, and natural language processing (NLP)
 
 [Tumor Detection and Segmentation in MRI Scans the gut Area](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Tumour.jpeg"/>
 
 ---
 [Gravitational Wave Analysis and Detection ](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/wave.jpeg"/>
 
 ---
 [Hourly/Minutes Bitcoin Prediction](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/bitcoin.jpeg"/>
 
 ---
 
