@@ -9,11 +9,11 @@
 
 ---
 [Gravitational Wave Analysis and Detection ](/pdf/sample_presentation.pdf)
-<img src="images/wave.jpeg"/>
+<img src="images/Wave.jpeg"/>
 
 ---
 [Hourly/Minutes Bitcoin Prediction](http://example.com/)
-<img src="images/bitcoin.jpeg"/>
+<img src="images/Bitcoin.jpeg"/>
 
 ---
 
