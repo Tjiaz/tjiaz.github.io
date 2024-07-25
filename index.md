@@ -2,34 +2,34 @@
 
 ---
 
-### Category Name 1 
+### Highlighted projects in data science, machine learning, and natural language processing (NLP)
 
-[Project 1 Title](/sample_page)
+[Tumor Detection and Segmentation in MRI Scans the gut Area](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Gravitational Wave Analysis and Detection ](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Hourly/Minutes Bitcoin Prediction](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Highlighted projects in Software Development
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
+- [Translation app](http://example.com/)
+- [Weather app](http://example.com/)
+- [Blog App](http://example.com/)
+- [E-commerce app](http://example.com/)
+- [Social Media App](http://example.com/)
+
+---
+
+
+
 
 ---
 
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
