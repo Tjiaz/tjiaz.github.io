@@ -5,7 +5,7 @@
 ### Highlighted projects in data science, machine learning, and natural language processing (NLP)
 
 [Tumor Detection and Segmentation in MRI Scans the gut Area](/sample_page)
-<img src="images/Tumor.jpeg"/>
+<img src="images/Tumor.jpeg" height={200} width={200}/>
 
 ---
 [Gravitational Wave Analysis and Detection ](/pdf/sample_presentation.pdf)
