@@ -3,8 +3,14 @@
 ---
 
 ### Highlighted projects in data science, machine learning, and natural language processing (NLP)
+<div align="center">
 
-[Tumor Detection and Segmentation in MRI Scans the gut Area](/sample_page)
+[![license](https://img.shields.io/github/license/peaceiris/actions-gh-pages.svg)](https://github.com/peaceiris/actions-gh-pages/blob/main/LICENSE)
+[![release](https://img.shields.io/github/release/peaceiris/actions-gh-pages.svg)](https://github.com/peaceiris/actions-gh-pages/releases/latest)
+
+</div>
+
+[Tumor Detection and Segmentation in MRI Scans the gut Area](https://www.kaggle.com/code/ollatunji/tumor-detection-in-mri-scans-v2)
 <img src="images/Tumor.jpeg" />
 
 ---
