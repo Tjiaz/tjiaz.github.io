@@ -7,12 +7,11 @@
 
 [Tumor Detection and Segmentation in MRI Scans the gut Area](https://www.kaggle.com/code/ollatunji/tumor-detection-in-mri-scans-v2)
 <img src="images/Tumor.jpeg" />
-<div align="center">
 
-[![PyTorch](https://img.shields.io/badge/PyTorch-v1.10.0-orange)](https://pytorch.org/)
-[![release](https://img.shields.io/github/release/peaceiris/actions-gh-pages.svg)](https://github.com/peaceiris/actions-gh-pages/releases/latest)
 
-</div>
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[View code on Kaggle](https://www.kaggle.com/code/ollatunji/tumor-detection-in-mri-scans-v2)
 
 ---
 [Gravitational Wave Analysis and Detection ](/pdf/sample_presentation.pdf)
