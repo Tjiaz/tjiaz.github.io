@@ -1,15 +1,6 @@
 # Portfolio
 
 ---
-
-## About Me
-
-I am a data scientist and machine learning engineer with a strong focus on building practical, real‑world solutions. My work spans medical imaging, signal processing, NLP, time‑series forecasting, and full‑stack software development.
-
-I enjoy transforming complex datasets into clear insights, building models that work in production, and creating tools that solve meaningful problems. I combine analytical thinking with hands‑on engineering skills, allowing me to design, train, deploy, and evaluate machine‑learning systems end‑to‑end.
-
----
-
 ## Skills & Tools
 
 ### Machine Learning & AI
