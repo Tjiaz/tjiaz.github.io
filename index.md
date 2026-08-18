@@ -1,4 +1,4 @@
-# Olatunji Azeez — Portfolio
+# Portfolio
 
 ---
 
