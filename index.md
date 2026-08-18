@@ -50,6 +50,10 @@ I designed and trained a custom encoder–decoder segmentation model to identify
 - Evaluated using Dice Score & IoU  
 - Demonstrated strong PyTorch engineering  
 
+**Tech Stack**  
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
 **[View code on Kaggle](https://www.kaggle.com/code/ollatunji/tumor-detection-in-mri-scans-v2)**
 
 ---
@@ -148,7 +152,7 @@ I fine‑tuned a BERT model to classify sentiment in product reviews, covering t
 - HuggingFace ecosystem  
 
 **Tech:** Python, PyTorch, Transformers  
-**Link:** *Add Kaggle or GitHub link*
+**[View code on Kaggle](https://www.kaggle.com/code/ollatunji/nlp-sentiment-analysis)**
 
 ---
 
@@ -163,7 +167,7 @@ I trained a YOLOv8 model on a custom dataset to detect objects with high accurac
 - Real‑time inference  
 
 **Tech:** Python, Ultralytics YOLOv8  
-**Link:** *Add Kaggle or GitHub link*
+
 
 ---
 
@@ -178,7 +182,7 @@ I built a scalable ETL pipeline using PySpark to ingest, clean, transform, and s
 - Databricks engineering  
 
 **Tech:** PySpark, Delta Lake, Databricks  
-**Link:** *Add GitHub or Databricks link*
+
 
 ---
 
