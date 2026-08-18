@@ -54,6 +54,7 @@ I designed and trained a custom encoder–decoder segmentation model to identify
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
+
 **[View code on Kaggle](https://www.kaggle.com/code/ollatunji/tumor-detection-in-mri-scans-v2)**
 
 ---
@@ -70,7 +71,12 @@ I implemented a pipeline that converts raw waveforms into Constant‑Q Transform
 - Signal processing + deep learning  
 - Spectrogram feature engineering  
 - PyTorch training pipeline  
-- Scientific dataset handling  
+- Scientific dataset handling
+
+ **Tech Stack**  
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
 
 **[View code on Kaggle](https://www.kaggle.com/code/ollatunji/gravitational-wave-analysis-and-detection)**
 
@@ -90,7 +96,12 @@ I built two LSTM‑based neural networks:
 - Strong time‑series modelling  
 - Regression vs classification comparison  
 - LSTM architecture design  
-- Financial dataset feature engineering  
+- Financial dataset feature engineering
+
+**Tech Stack**  
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
+[![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
 
 **[View code on Kaggle](https://www.kaggle.com/code/ollatunji/daily-btc-usd-stock-prediction-with-lstms-358b73)**
 
@@ -104,10 +115,13 @@ I built a churn‑prediction model using Logistic Regression, Random Forest, and
 - Real business problem  
 - ROC‑AUC, Recall, Precision  
 - SHAP explainability  
-- Imbalanced dataset handling  
+- Imbalanced dataset handling
 
-**Tech:** Python, Scikit‑learn, SHAP  
-**Link:** *Add Kaggle or GitHub link*
+**Tech Stack**  
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/Scikit--learn-white?logo=scikitlearn)](#)
+[![](https://img.shields.io/badge/SHAP-white?logo=python)](#) 
+
 
 ---
 
@@ -121,8 +135,11 @@ I developed a fraud‑detection pipeline using SMOTE, PCA, and ensemble models t
 - PCA dimensionality reduction  
 - Robust ML pipeline design  
 
-**Tech:** Python, Scikit‑learn, XGBoost  
-**Link:** *Add Kaggle or GitHub link*
+**Tech Stack**  
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/Scikit--learn-white?logo=scikitlearn)](#)
+[![](https://img.shields.io/badge/XGBoost-white?logo=xgboost)](#)
+
 
 ---
 
@@ -136,8 +153,11 @@ I compared ARIMA, Prophet, and LSTM models to predict product demand, analysing 
 - MAPE & RMSE evaluation  
 - Business‑focused interpretation  
 
-**Tech:** Python, Prophet, Statsmodels, TensorFlow  
-**Link:** *Add Kaggle or GitHub link*
+**Tech Stack**  
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/Prophet-white?logo=python)](#)
+[![](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)](#)
+
 
 ---
 
@@ -151,7 +171,11 @@ I fine‑tuned a BERT model to classify sentiment in product reviews, covering t
 - Large‑scale text processing  
 - HuggingFace ecosystem  
 
-**Tech:** Python, PyTorch, Transformers  
+**Tech Stack**  
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)
+[![](https://img.shields.io/badge/HuggingFace-white?logo=huggingface)](#)
+
 **[View code on Kaggle](https://www.kaggle.com/code/ollatunji/nlp-sentiment-analysis)**
 
 ---
@@ -166,7 +190,10 @@ I trained a YOLOv8 model on a custom dataset to detect objects with high accurac
 - IoU & mAP evaluation  
 - Real‑time inference  
 
-**Tech:** Python, Ultralytics YOLOv8  
+**Tech Stack**  
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/YOLOv8-white?logo=yolo)](#)
+[![](https://img.shields.io/badge/OpenCV-white?logo=opencv)](#)
 
 
 ---
@@ -181,7 +208,10 @@ I built a scalable ETL pipeline using PySpark to ingest, clean, transform, and s
 - Production‑ready ETL  
 - Databricks engineering  
 
-**Tech:** PySpark, Delta Lake, Databricks  
+**Tech Stack**  
+[![](https://img.shields.io/badge/PySpark-white?logo=apachespark)](#)
+[![](https://img.shields.io/badge/Delta--Lake-white?logo=databricks)](#)
+[![](https://img.shields.io/badge/Databricks-white?logo=databricks)](#)
 
 
 ---
